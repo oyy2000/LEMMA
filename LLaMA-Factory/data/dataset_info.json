@@ -1,4 +1,8 @@
 {
+  "lemma_sft_data": {
+    "file_name": "lemma.json",
+    "formatting": "alpaca"
+  },
   "selfimprove_critic": {
     "file_name": "selfimprove_critic.json",
     "formatting": "sharegpt",
@@ -716,7 +720,6 @@
     },
     "folder": "python"
   },
-
   "math_data/LEMMA/cot-meta-math/gsm8k_math_train_Base": {
     "file_name": "math_data/LEMMA/cot-meta-math/gsm8k_math_train_Base.json"
   }

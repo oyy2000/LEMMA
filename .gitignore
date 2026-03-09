@@ -416,3 +416,4 @@ outputs
 outputs/
 outputs2
 outputs2/
+LLaMA-Factory/data/lemma.json
